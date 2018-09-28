@@ -21,7 +21,7 @@
 
 * Mobile
 
-![Mobile Preview](http://iissnan.com/nexus/next/mobile.png)
+![Mobile Preview](http://weiweilei.github.io/nexus/next/mobile.png)
 
 
 ## Installation

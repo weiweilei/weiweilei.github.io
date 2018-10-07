@@ -123,9 +123,8 @@ menu:
   tags: /tags/
   write: /write/
   draw: /draw/
-  eb: category/#/eb
-  tool: category/#/tool
-  about: /about
+  tool: /tool/
+  about: /about/
   #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html

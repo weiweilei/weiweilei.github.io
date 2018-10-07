@@ -120,10 +120,10 @@ menu:
   home: /
   #categories: /categories
   archives: /archives
-  selfedu: category/#/selfedu
-  community: category/#/community
-  tool: category/#/tool
-  murmur: category/#/murmur
+  写作: category/#/写作
+  绘画: category/#/绘画
+  电商: category/#/电商
+  工具: category/#/工具
   about: /about
   #tags: /tags/
   #sitemap: /sitemap.xml

@@ -120,8 +120,9 @@ menu:
   home: /
   #categories: /categories
   archives: /archives
-  write: category/#/write
-  draw: category/#/draw
+  tags: /tags/
+  write: /write/
+  draw: /draw/
   eb: category/#/eb
   tool: category/#/tool
   about: /about

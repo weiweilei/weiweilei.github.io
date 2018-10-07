@@ -222,9 +222,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/weiweilei
-  Usage: https://github.com/weiweilei/collaborate_ishanshan/blob/master/usage_ishanshan.md
-  SlideShare: https://www.slideshare.net/ssusere6acd7/presentations
-  Email: mailto:ishanshan.huang@gmail.com
+  Email: mailto:abu912@qq.com
 
 
 # Social Links Icons
@@ -297,11 +295,7 @@ links_title: Other Resources
 #links_layout: inline
 links:
   0. Guide for Collaborating as A Shaper: https://github.com/weiweilei/CollaborationGuide4Shaper
-  1. Self-learning Tools for Collaborating to Knowledge Workers: https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0
-  2. Guide for Swing Dancing: https://github.com/weiweilei/EnjoySwingDancing
-  3. Memo of Becoming A Strategy PM: https://road2strategypm.ishanshan.im
-  4. Plan for Parenting: https://github.com/weiweilei/ForFamily/blob/master/HbParenting.md
-
+  
 
 # ---------------------------------------------------------------
 # Post Settings
